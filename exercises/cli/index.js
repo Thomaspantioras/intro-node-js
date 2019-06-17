@@ -42,4 +42,4 @@ program
       })
   })
 
-program.parse(process.argv)
+program.parse(process.argv) // process.argv gives you an array of all the arguments that you passed. Useful to catch arguments from the cli. THe first two are there by default, yours start from the third index

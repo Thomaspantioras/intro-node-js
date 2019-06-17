@@ -3,5 +3,15 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "Thomas Pantioras": {
+    "firstName": "Thomas",
+    "lastName": "Pantioras",
+    "phoneNumber": "0983475209"
+  },
+  "Tom Cat": {
+    "firstName": "Tom",
+    "lastName": "Cat",
+    "phoneNumber": "09475659"
   }
 }
